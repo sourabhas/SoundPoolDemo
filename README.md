@@ -7,6 +7,6 @@ The SoundPool library uses the MediaPlayer service to decode the audio into a ra
 This allows applications to ship with compressed streams without having to suffer the CPU load and latency of decompressing during playback.
 
 #Android UI & UX
-* Creating shapes
+* Creating and incoporating  shapes
 * Different states of Button
 * Changes in text, font color,button background, etc with button states
