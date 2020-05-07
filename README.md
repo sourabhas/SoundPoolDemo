@@ -1,4 +1,5 @@
 # SoundPoolDemo
+# SoundPool
 The SoundPool class manages and plays audio resources for applications.
 example: sound effects for games, short audios in background,etc
 A SoundPool is a collection of samples that can be loaded into memory from a resource inside the APK or from a file in the file system. 
